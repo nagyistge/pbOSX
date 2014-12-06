@@ -45,6 +45,7 @@ brew install ? isl
 brew install ? cloog
 brew install ? libmpc
 brew install ? mpfr
+brew install ? open ssl
 ```
 
 ### 3. Brackets Extensions
