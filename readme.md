@@ -37,7 +37,7 @@ brew install mongodb
 brew install node
 brew install mysql
 brew install php55
-brew install typespeed #Bonus!
+brew install typespeed cowsay fortune#Bonus!
 brew install ? gcc
 brew install ? htop-osx
 brew install ? gmp
